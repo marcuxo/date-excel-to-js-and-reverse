@@ -1,7 +1,7 @@
-#date-excel-to-js-and-reverse
+# date-excel-to-js-and-reverse
 
-##Description
+## Description
 transform date from excel to js and js to excel, easy 👌
 
-##Install
+## Install
 `npm i date-excel-to-js-and-reverse`
