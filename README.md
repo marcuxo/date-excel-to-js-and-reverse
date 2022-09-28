@@ -1,3 +1,5 @@
+![license](https://github.com/marcuxo/date-excel-to-js-and-reverse/blob/main/LICENSE)
+
 # date-excel-to-js-and-reverse
 
 ## Description
