@@ -19,7 +19,7 @@
     "excel date convertor"
   ],
   "author": "(marcuxo)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/marcuxo/date-excel-to-js-and-reverse/issues"
   },
