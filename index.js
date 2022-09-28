@@ -4,3 +4,4 @@ function dateExcelToJs(fecha_) {
     //console.log(fecha);
   return fecha;
 }
+export default dateExcelToJs;
