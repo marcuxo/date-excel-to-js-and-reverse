@@ -1,0 +1,11 @@
+{
+  "name": "date-excel-to-js-and-reverse",
+  "version": "1.0.0",
+  "description": "transform date from excel to js and js to excel, easy 👌",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": " (marcuxo)",
+  "license": "ISC"
+}
