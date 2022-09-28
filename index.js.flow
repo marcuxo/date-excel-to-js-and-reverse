@@ -1,0 +1,1 @@
+export default function dateExcelToJs(fecha_:number):Date
