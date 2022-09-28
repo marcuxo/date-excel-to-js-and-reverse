@@ -1,4 +1,4 @@
-![license](https://github.com/marcuxo/date-excel-to-js-and-reverse/blob/main/LICENSE)
+[![license](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://github.com/marcuxo/date-excel-to-js-and-reverse/blob/main/LICENSE)
 
 # date-excel-to-js-and-reverse
 
