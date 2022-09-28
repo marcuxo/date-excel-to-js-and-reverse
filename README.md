@@ -5,3 +5,9 @@ transform date from excel to js and js to excel, easy 👌
 
 ## Install
 `npm i date-excel-to-js-and-reverse`
+
+## Usage
+```
+const {dateExcelToJs} = require('date-excel-to-js-and-reverse')
+console.log(dateExcelToJs(44832))
+```
