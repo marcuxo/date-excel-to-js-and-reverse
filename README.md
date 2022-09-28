@@ -10,7 +10,7 @@ npm i date-excel-to-js-and-reverse
 
 ## Usage
 ```node
-const {dateExcelToJs} = require('date-excel-to-js-and-reverse')
-console.log(dateExcelToJs(44832))
-//2022-09-28T00:00:00.000Z
+const { dateExcelToJs } = require('date-excel-to-js-and-reverse');
+console.log(dateExcelToJs(44832));
+ // 2022-09-28T00:00:00.000Z
 ```
