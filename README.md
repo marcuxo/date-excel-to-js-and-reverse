@@ -20,7 +20,7 @@ console.log(dateExcelToJs(44832));
 #### to transform from javascript to excel supports number and string
 
 ```node
-const { dateExcelToJs } = require('date-excel-to-js-and-reverse');
+const { dateJsToExcel } = require('date-excel-to-js-and-reverse');
 console.log(dateJsToExcel('2022-09-22'))
  // 44826
 console.log(dateJsToExcel(1663804800000))
