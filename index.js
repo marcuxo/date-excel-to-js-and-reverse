@@ -4,6 +4,15 @@ function dateExcelToJs(fecha_) {
     //console.log(fecha);
   return fecha;
 }
+
+function dateJsToExcel(date) {
+  let _a = new Date(date)
+  let _date = (_a.getTime()/(86400*1000))+25569
+  // console.log('=>>>>>>>>>>>>>>>>>>>>>>',_date,date)
+  return _date
+}
+
 module.exports = {
-  dateExcelToJs
+  dateExcelToJs,
+  dateJsToExcel
 }
